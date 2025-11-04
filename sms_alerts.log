@@ -1,0 +1,86 @@
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 17572
+"GET /add_alert/ HTTP/1.1" 200 14584
+"GET /add_resource/ HTTP/1.1" 200 17180
+"GET /allocate/ HTTP/1.1" 200 13443
+"GET / HTTP/1.1" 200 17572
+"GET /ai_assistant/ HTTP/1.1" 200 63214
+"GET / HTTP/1.1" 200 17572
+"GET /add_alert/ HTTP/1.1" 200 14444
+"GET /add_resource/ HTTP/1.1" 200 17180
+"GET /allocate/ HTTP/1.1" 200 13443
+"GET / HTTP/1.1" 200 17572
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 17572
+"GET /add_alert/ HTTP/1.1" 200 14444
+"POST /add_alert/ HTTP/1.1" 302 0
+"GET /add_alert/ HTTP/1.1" 200 16143
+"GET /dashboard/ HTTP/1.1" 200 17576
+"GET /logout/ HTTP/1.1" 302 0
+"GET /login/ HTTP/1.1" 200 6104
+"GET /register/ HTTP/1.1" 200 6523
+"GET /login/ HTTP/1.1" 200 5969
+"POST /login/ HTTP/1.1" 302 0
+"GET /dashboard/ HTTP/1.1" 200 17576
+"GET /logout/ HTTP/1.1" 302 0
+"GET /login/ HTTP/1.1" 200 6166
+"GET /register/ HTTP/1.1" 200 6523
+"POST /register/ HTTP/1.1" 302 0
+"GET /login/ HTTP/1.1" 200 6109
+"POST /login/ HTTP/1.1" 302 0
+"GET /dashboard/ HTTP/1.1" 200 17574
+"GET /add_alert/ HTTP/1.1" 200 16115
+"POST /add_alert/ HTTP/1.1" 302 0
+"GET /add_alert/ HTTP/1.1" 200 14610
+"GET /dashboard/ HTTP/1.1" 200 17570
+"GET /add_alert/ HTTP/1.1" 200 14442
+"POST /add_alert/ HTTP/1.1" 302 0
+"GET /add_alert/ HTTP/1.1" 200 16135
+"GET /dashboard/ HTTP/1.1" 200 17574
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 17576
+"GET /add_alert/ HTTP/1.1" 200 17266
+"POST /add_alert/ HTTP/1.1" 302 0
+"GET /add_alert/ HTTP/1.1" 200 16158
+"POST /add_alert/ HTTP/1.1" 302 0
+"GET /add_alert/ HTTP/1.1" 200 14621
+"GET /dashboard/ HTTP/1.1" 200 17570
+"GET /ai_assistant/ HTTP/1.1" 200 63212
+"GET / HTTP/1.1" 200 17570
+"GET /ai_assistant/ HTTP/1.1" 200 63212
+"GET /logout/ HTTP/1.1" 302 0
+"GET /login/ HTTP/1.1" 200 6104
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 302 0
+"GET /login/?next=/ HTTP/1.1" 200 5969
+"GET /register/ HTTP/1.1" 200 6523
+"POST /register/ HTTP/1.1" 302 0
+"GET /login/ HTTP/1.1" 200 6109
+"POST /login/ HTTP/1.1" 302 0
+"GET /dashboard/ HTTP/1.1" 200 17566
+"GET /add_alert/ HTTP/1.1" 200 14578
+"GET /add_resource/ HTTP/1.1" 200 17180
+"GET /allocate/ HTTP/1.1" 200 13443
+"GET /logout/ HTTP/1.1" 302 0
+"GET /login/ HTTP/1.1" 200 6104
+"POST /login/ HTTP/1.1" 302 0
+"GET /dashboard/ HTTP/1.1" 200 17566
+"GET /dashboard/ HTTP/1.1" 200 17566
+"GET /add_resource/ HTTP/1.1" 200 17364
+"GET /add_alert/ HTTP/1.1" 200 14438
+"GET /add_resource/ HTTP/1.1" 200 17180
+"GET / HTTP/1.1" 200 17566
+"GET /add_alert/ HTTP/1.1" 200 14438
+"GET /add_alert/ HTTP/1.1" 200 14438
+"GET /add_resource/ HTTP/1.1" 200 17180
+"GET / HTTP/1.1" 200 17566
+"GET /add_resource/ HTTP/1.1" 200 17180
+"GET / HTTP/1.1" 200 17566
